@@ -1,1 +1,1 @@
-# .github
+This is README for Github Organization
